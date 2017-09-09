@@ -5,5 +5,5 @@ web design
 ## web Copy Study
 ### HTML5 & CSS3 & jQuery
 ```
-http://naver.com
+https://github.com/shee
 ```
